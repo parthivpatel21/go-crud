@@ -12,4 +12,4 @@ ii) CREATE TABLE users (userid SERIAL PRIMARY KEY,name TEXT,age INT,location TEX
 
 ## Test APIs with Postman
 
-Use [this]() postman collection
+Use [this](https://github.com/parthivpatel21/go-crud/blob/master/documents/goCRUD.postman_collection.json) postman collection
